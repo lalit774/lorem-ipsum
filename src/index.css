@@ -253,6 +253,7 @@ ul {
   margin-top: 1rem;
 }
 /* ============= PROJECT CSS =============== */
+
 .section-center {
   width: 80vw;
   max-width: 40rem;
@@ -275,7 +276,6 @@ ul {
 .lorem-form label {
   font-size: 1.25rem;
 }
-
 .lorem-form input {
   padding: 0.25rem 0.5rem;
   width: 4rem;
@@ -284,11 +284,9 @@ ul {
   background: var(--grey-300);
   font-size: 1.25rem;
 }
-
 .lorem-form .btn {
   align-self: stretch;
 }
-
 .lorem-text p {
   line-height: 2;
   margin-bottom: 2rem;
